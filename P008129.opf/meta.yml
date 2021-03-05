@@ -1,16 +1,17 @@
-id: opecha:P008129
+id: P008129
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13780
   title: ནག་རྩིས་སྣང་སྲིད་མེ་ལོང་དང་འབྲས་རྩིས་བདེན་དོན་སྙིང་པོ།
-  volume:
+  author: ''
+  volumes:
     a53feae2a40e4f70b3c462291287655e:
       image_group_id: I1KG15279
       title: Volume 1 of nag rtsis snang srid me long dang 'bras rtsis bden don snying
         po/
       volume_number: 1
       total_pages: 306
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ནག་རྩིས་སྣང་སྲིད་མེ་ལོང་དང་འབྲས་རྩིས་བདེན་དོན་སྙིང་པོ།
   author: ''
