@@ -1,0 +1,28 @@
+id: I242896B9
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-27T02:47:44+00:00'
+last_modified: '2022-06-09T04:42:19.988555+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG13780
+  title: ནག་རྩིས་སྣང་སྲིད་མེ་ལོང་དང་འབྲས་རྩིས་བདེན་དོན་སྙིང་པོ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    3B9A:
+      image_group_id: I1KG15279
+      title: Volume 1 of nag rtsis snang srid me long dang 'bras rtsis bden don snying
+        po/
+      total_pages: 306
+      order: 1
+      base_file: 3B9A.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
